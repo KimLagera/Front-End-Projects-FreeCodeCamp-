@@ -1,0 +1,129 @@
+
+<div class="container-fluid">
+  <div class="jumbotron">
+    <h1 class="text-center">Tim Ferriss</h1>
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+        <div>
+           <img id="topPic" src="https://mm.creativelive.com/fit/https%3A%2F%2Fagc.creativelive.com%2Fagc%2Finstructors%2Fprofile%2FTim_Ferriss_Bio_1000x1264.jpg/800" alt="tim picture">
+         </div>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div id="blog" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">      
+      
+           <h2 class="text-center">BLOG</h2>  
+        <a href="https://tim.blog/">
+           <img src="https://assets.entrepreneur.com/content/3x2/1300/20170105192134-tim-ferriss-chair.jpeg"> 
+        </a>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div id="podcast" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">      
+          <h2 class="text-center">PODCAST</h2>
+           <a href="https://tim.blog/podcast/">
+           <img src="http://is1.mzstatic.com/image/thumb/Music128/v4/44/7d/df/447ddfa8-227a-6ef6-b557-e5c0fdb3303a/source/1200x630bb.jpg"> 
+          <footer class="text-center">The Tim Ferriss Show</footer>
+        </a>
+      </div>
+    </div>
+    
+     
+ <div class="row" id="tvShow">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+           <h2 class="text-center">TV SHOWS</h2>
+       <div id="tvShowPics" class="row">
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+            <a href="https://tim.blog/tv/">
+                 <img id="tvShowImg1" src="https://jamesaltucher.com/wp-content/uploads/2015/04/tim-ferriss.jpg"> 
+                 <footer class="text-center">The Tim Ferriss Experiment</footer> </a> 
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"> 
+             <a href="https://tim.blog/fearless/">
+                 <img id="tvShowImg2" src="http://start.att.net/exclusive/sites/default/files/AUD1853_Fearless_TimFerris_DIGITAL_AD_1920x1080_M2R_0.jpg"> 
+                 <footer class="text-center">Fear{less}</footer>
+             </a>
+          </div>
+  </div>     
+    </div>
+  </div>
+    
+
+    
+   <div class="row">
+      <div id="books" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">      
+      
+           <h2 class="text-center">BOOKS</h2>
+          <div id="booksPics" class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 col-md-2">
+               <a href="https://fourhourworkweek.com/">
+                  <img id="fourHWW" src="http://www.creativindie.com/wp-content/uploads/2011/04/Tim-Ferriss-The-4-Hour-Work-Week-Review.jpg"> 
+                  <footer class="text-center">The 4 Hour Workweek</footer>
+              </a>
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+               <a href="http://fourhourbody.com/">
+                  <img id="booksImg" src="https://upload.wikimedia.org/wikipedia/en/e/ec/The_4-hour_body.jpg">
+                  <footer class="text-center">The 4 Hour Body</footer>
+               </a>
+            </div> 
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+               <a href="https://fourhourchef.com/">
+                 <img id="booksImg" src="https://thefourhourchef.files.wordpress.com/2012/10/fhc-bookcover-front.gif"> 
+                 <footer class="text-center">The 4 Hour Chef</footer>
+              </a>
+            </div>     
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                <a href="https://toolsoftitans.com/">
+                   <img id="booksImg" src="https://images.gr-assets.com/books/1472831109l/31823677.jpg"> 
+                   <footer class="text-center">Tools of Titans</footer>
+                </a>
+            </div>     
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+               <a href="https://tribeofmentors.com/">
+                 <img id="booksImg" src="https://images-eu.ssl-images-amazon.com/images/I/51jkW-GzFiL.jpg"> 
+                 <footer class="text-center">Tribe of Mentors</footer>
+               </a>
+            </div>     
+          </div>          
+      
+      </div>
+    </div>  
+    
+    
+    <hr>
+ 
+                      
+    <div class="row" id="socials">
+   <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+     <a href="https://www.huffingtonpost.com/author/tim-ferriss">
+     <img src="https://www.tokbox.com/blog/wp-content/uploads/2016/04/Facebook_logo_36x36.svg_.png" alt=
+"facebookIcon"></a>
+   </div>
+   <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+     <a href="https://www.huffingtonpost.com/author/tim-ferriss">
+     <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/twitter.png" alt="twitterIcon"></a>
+   </div>
+   <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+     <a href="https://www.huffingtonpost.com/author/tim-ferriss">
+     <img src="https://www.algbtical.org/Huff.jpg" alt="huffingtonPostIcon"></a>
+   </div>
+   <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+     <a href="https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything">
+     <img src="https://i.pinimg.com/originals/71/75/f0/7175f0d88424f832c3c26181d2306ff2.jpg" alt="tedIcon"></a>
+   </div>
+   <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+     <a href="https://www.huffingtonpost.com/author/tim-ferriss">
+     <img src="https://tctechcrunch2011.files.wordpress.com/2014/03/peace_large.jpg?w=400" alt="angelListIcon"></a>
+   </div>
+   <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+     <a href="https://www.huffingtonpost.com/author/tim-ferriss">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2000px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="youtubeIcon"></a>
+   </div>
+</div>
+  </div>
+</div>
+
+

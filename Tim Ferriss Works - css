@@ -1,0 +1,82 @@
+.jumbotron{
+  background-color:#1d1e1e;
+  color:#ffac47;
+  margin-top:30px;
+}
+
+#topPic{
+  width:30%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom:20px;
+}
+
+#blog{
+  margin-top: 30px;
+  margin-bottom:2px;
+}
+
+#blog img{
+  width:15%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom:20px;
+}
+
+#podcast{
+margin-bottom:15px;
+}
+#podcast img{
+  width:15%;
+  margin: 0 auto;
+  display: block;
+  
+}
+
+#tvShowImg1{
+  text-align: center;
+  width:60%;
+  margin: 0 auto;
+  display: block;
+}
+
+#tvShowImg2{
+  text-align: center;
+  width:50%;
+  margin: 0 auto;
+  display: block;
+}
+
+#books{
+ text-align:center;
+  margin-top:10px;
+}
+#booksImg{
+margin-top:10px;  
+width:80%;
+}
+
+#booksPics{
+  margin-left:15%;
+ 
+}
+
+#fourHWW{
+  width:70%;
+  margin-top:10px;
+}
+
+.fa{
+background-color:blue;
+}
+
+#socials{
+  text-align:center;
+  margin-left:30%;
+   margin-right:30%;
+}
+
+#socials img {
+  width:100%;
+  margin-top:30px;
+}
